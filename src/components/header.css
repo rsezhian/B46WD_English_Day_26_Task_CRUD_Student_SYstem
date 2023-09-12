@@ -1,0 +1,14 @@
+.main-header {
+  width: 90vw;
+  height: 50px;
+  background-color: lightslategray;
+  margin: auto;
+}
+
+.title {
+  font-size: 18px;
+  color: #fff;
+  font-weight: bold;
+  padding-top: 10px;
+  text-align: center;
+}
